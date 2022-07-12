@@ -1,1 +1,1 @@
-dfc104b4-1f79-4db9-a9ff-9a4e378a027e autoenable=true bucket=test-s3-remote datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes publicurl=https://test-s3-remote.s3-eu-west-1.amazonaws.com storageclass=STANDARD type=S3 timestamp=1657616232.619664409s
+dfc104b4-1f79-4db9-a9ff-9a4e378a027e autoenable=true bucket=test-s3-remote datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes publicurl=https://test-s3-remote.s3-eu-west-1.amazonaws.cfm storageclass=STANDARD type=S3 timestamp=1657616239.783223797s
